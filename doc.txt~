@@ -1,10 +1,7 @@
 def foo():
-	Making changes in detached mode.
 	A change made from branch1.
-	Some more change in detached mode.
 	Yesterday, a cat came to my room and ate all my chips.
 
 def bar():
 	A change made from branch1.
-	God save this file in detached mode.
 	The leaves outside are lightly swaying in the wind.

@@ -1,0 +1,87 @@
+ mkdir gittrials
+ cd gittrials/
+ ls
+ subl doc.txt
+ gedit doc.txt
+ git init
+ git add .
+ git status
+ git commit -m "created the file"
+ git branch -a
+ git push
+ git checkout -b branch1
+ git branch -a
+ gedit doc.txt
+ git status
+ git remote add origin https://github.com/harshita-rygbee/gittrials.git
+ git push -u origin master
+ git checkout -b branch1
+ git branch -a
+ git status
+ git commit -m "git committed to branch1"
+ gedit doc2.txt
+ gedit doc3.txt
+ git status
+ git add .
+ git status
+ rm doc2.txt
+ git status
+ git add .
+ git status
+ git add --all
+ git status
+ git branch -a
+ git push
+ git push -u origin branch1
+ git branch -a
+ git checkout master
+ git status
+ git push
+ git push --help
+ git pull
+ git status
+ git commit -m "creating new files on master"
+ git status
+ git push origin master
+ git pull origin master
+ git status
+ ls
+ gedit doc.txt
+ git status
+ git add .
+ git commit -m "resolved merge conflicts"
+ git push origin master
+ git branch -a
+ git checkout branch1
+ git push -u origin branch1
+ git status
+ git push origin branch1
+ git branch -a
+ git push
+ git push origin branch1
+ git pull origin branch1
+ git status
+ git push origin branch1
+ git branch -a
+ git status
+ gedit doc.txt
+ git status
+ git branch -a
+ git push origin branch1
+ ls
+ gedit doc.txt
+ git status
+ gedit doc4.txt
+ ls
+ gedit doc.txt
+ git status
+ git add .
+ git commit -m "trying to push when the remote is out of sync"
+ git push origin branch1
+ git branch -a
+ git checkout remotes/origin/branch1
+ git status
+ gedit doc.txt
+ git status
+ history
+ history >> history.txt
