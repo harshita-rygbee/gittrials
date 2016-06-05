@@ -1,0 +1,1 @@
+A file inside a folder named sf2, which is inside another folder named f1.
