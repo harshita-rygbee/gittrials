@@ -1,5 +1,15 @@
 def foo():
+<<<<<<< HEAD
+	New addition to foo.	
 	Yesterday, a cat came to my room and ate all my chips.
 
 def bar():
+	New addition to bar.
+=======
+	Edit in foo on github.
+	Yesterday, a cat came to my room and ate all my chips.
+
+def bar():
+	Edit in foo on github.
+>>>>>>> 0d340acbb4e457822c54c42767e1982df409bac9
 	The leaves outside are lightly swaying in the wind.
