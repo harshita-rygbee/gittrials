@@ -1,0 +1,5 @@
+def foo():
+	Yesterday, a cat came to my room and ate all my chips.
+
+def bar():
+	The leaves outside are lightly swaying in the wind.
