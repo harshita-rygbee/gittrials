@@ -1,3 +1,5 @@
+def f():
+	A drastically different file
 def foo():
 	A change made from branch1.
 	Yesterday, a cat came to my room and ate all my chips.
