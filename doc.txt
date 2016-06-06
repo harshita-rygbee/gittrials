@@ -1,5 +1,5 @@
 def foo():
-<<<<<<< HEAD
+	Today.
 	Edit in foo on github.
 	New addition to foo.	
 	Yesterday, a cat came to my room and ate all my chips.
