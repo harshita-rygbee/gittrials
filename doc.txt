@@ -1,11 +1,15 @@
+def f():
+	A drastically different file
 def foo():
 	Today.
 	Some cached change.
 	Edit in foo on github.
+	A change made from branch1.
 	New addition to foo.	
 	Yesterday, a cat came to my room and ate all my chips.
 
 def bar():
 	New addition to bar.
 	Edit in foo on github.
+	A change made from branch1.
 	The leaves outside are lightly swaying in the wind.
